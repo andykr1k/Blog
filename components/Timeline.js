@@ -23,7 +23,7 @@ export default function Timeline() {
             </span>
           </h3>
           <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            June 13th, 2022
+            June 2022
           </time>
           <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
             Feel confident that I can work as a junior Software Engineer. Wish me Luck!
@@ -49,7 +49,7 @@ export default function Timeline() {
           </span>
           <h3 className="text-base font-semibold text-gray-900 dark:text-white">Started College</h3>
           <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            August 30th, 2019
+            August 2019
           </time>
           <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
             Bachelor of Technology in Computer Science (UC Riverside)

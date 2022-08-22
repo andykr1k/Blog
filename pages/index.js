@@ -5,7 +5,6 @@ import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
 import { RoughNotation } from 'react-rough-notation'
-import ViewCounter from '@/components/ViewCounter'
 
 const MAX_DISPLAY = 3
 
@@ -216,8 +215,7 @@ export default function Home({ posts }) {
                         <dd className="text-sm font-normal leading-6 text-gray-500 dark:text-gray-400">
                           <time dateTime={date}>{formatDate(date)}</time>
                           {' • '}
-                          <ViewCounter className="mx-1" slug={slug} />
-                          views
+                          {siteMetadata.author}
                         </dd>
                       </dl>
                       <div className="space-y-5 xl:col-span-4">
