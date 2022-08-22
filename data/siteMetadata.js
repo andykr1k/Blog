@@ -1,9 +1,9 @@
 const siteMetadata = {
-  title: 'Blog | Parth Desai',
+  title: 'Blog - Andrew Krikorian',
   author: 'Andrew Krikorian',
   headerTitle: 'Dev Posts',
   description: 'my personal blog where I share my thoughts',
-  snippets: 'Reuseable code snippets collected by Parth',
+  snippets: 'Reuseable code snippets collected by Andrew',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://musing.vercel.app',
@@ -15,7 +15,7 @@ const siteMetadata = {
   github: 'https://github.com/andykr1k',
   twitter: 'https://twitter.com/krik_exe',
   linkedin: 'https://www.linkedin.com/in/andrewkrikorian/',
-  website: 'https://parthdesai.vercel.app',
+  website: 'https://rebrand.ly/andykr1k',
   locale: 'en-US',
   analytics: {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app

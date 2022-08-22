@@ -3,10 +3,8 @@ import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
 import { BlogSEO } from '@/components/SEO'
 import Image from '@/components/Image'
-import ViewCounter from '@/components/ViewCounter'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import {
   FacebookShareButton,
@@ -61,11 +59,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 <span className="flex items-center gap-1.5">
                   <HiOutlineClock className="h-5 w-5" />
                   {readingTime.text}
-                </span>
-                <span className="flex items-center gap-1.5">
-                  <HiOutlineEye className="h-5 w-5" />
-                  <ViewCounter className="ml-0" slug={slug} blogPage={true} />
-                  <div className="-ml-0.5">Views</div>
                 </span>
               </div>
             </div>
@@ -219,7 +212,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   </Link>
                 </div>
               </div>
-              <Comments frontMatter={frontMatter} />
             </div>
             <footer>
               <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">

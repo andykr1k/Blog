@@ -22,7 +22,7 @@ export default function MetricCard({ header, link, metric, isCurrency }) {
       </a>
       <p className="spacing-sm mt-2 text-3xl font-bold text-black dark:text-white">
         {metric > 0 && isCurrency && '$'}
-        {metric > 0 ? metric.toLocaleString() : '-'}
+        {metric > 0 ? metric.toLocaleString() : '0'}
       </p>
     </div>
   )
