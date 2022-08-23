@@ -83,44 +83,18 @@ export default function Timeline() {
           Software Engineer @ ESO Fund
           </p>
         </li>
-        <Disclosure>
-          {({ open }) => (
-            <>
-              <Disclosure.Button>
-                <div className="text-small ml-1.5 flex">
-                  <HiChevronDown
-                    className={`h-6 w-6 text-gray-600  ${open ? 'rotate-180 transform ' : ''}`}
-                  />
-                </div>
-              </Disclosure.Button>
-              <Transition
-                show={open}
-                enter="transition duration-400 ease-in-out"
-                enterFrom="transform scale-95 opacity-0"
-                enterTo="transform scale-400 opacity-100"
-                leave="transition duration-75 ease-out"
-                leaveFrom="transform scale-100 opacity-100"
-                leaveTo="transform scale-95 opacity-0"
-              >
-                <Disclosure.Panel>
-                  {' '}
-                  <li className="mb-4 ml-8 rounded-md border border-gray-100 bg-white  px-4  py-4 shadow-sm shadow-gray-300 dark:border-zinc-900 dark:bg-zinc-900 dark:shadow-none">
-                    <span className="absolute -left-3 flex h-6 w-6 items-center justify-center rounded-full bg-blue-200 ring-8 ring-white dark:bg-blue-900 dark:ring-gray-900">
-                      <FaBaby />
-                    </span>
-                    <h3 className="text-base font-semibold text-gray-900 dark:text-white">Born</h3>
-                    <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-                      June 18th, 2001
-                    </time>
-                    <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
-                      Connected to the internet
-                    </p>
-                  </li>
-                </Disclosure.Panel>
-              </Transition>
-            </>
-          )}
-        </Disclosure>
+        <li className="mb-4 ml-8 rounded-md border border-gray-100 bg-white  px-4  py-4 shadow-sm shadow-gray-300 dark:border-zinc-900 dark:bg-zinc-900 dark:shadow-none">
+          <span className="absolute -left-3 flex h-6 w-6 items-center justify-center rounded-full bg-blue-200 ring-8 ring-white dark:bg-blue-900 dark:ring-gray-900">
+            <FaBaby />
+          </span>
+          <h3 className="text-base font-semibold text-gray-900 dark:text-white">Born</h3>
+          <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+            June 18th, 2001
+          </time>
+          <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
+            Connected to the internet
+          </p>
+        </li>
       </ol>
     </div>
   )

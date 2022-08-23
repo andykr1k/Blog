@@ -65,12 +65,12 @@ export default function AuthorLayout({ children, frontMatter }) {
               </RoughNotation>
             </p>
             <br />
-            <p className="sm:block md:hidden lg:hidden">
+            <p className="sm:block lg:hidden">
               I am always looking to learn new things. I am currently working on a few projects
               related to
               <span className="font-semibold">
                 {' '}
-                Natural Language Processing and Machine Learning.{' '}
+                Game Development and Machine Learning.{' '}
               </span>
               At the same time I am{' '}
               <RoughNotation
@@ -81,11 +81,11 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDuration={3000}
                 multiline={true}
               >
-                actively on the lookout for remote internships which I can pursue in field of Data
+                actively on the lookout for remote internships which I can pursue in field of Computer
                 Science.
               </RoughNotation>
             </p>
-            <p className="hidden md:block">
+            <p className="hidden lg:block">
               I am always looking to learn new things. I am currently working on a few projects
               related to{' '}
               <RoughNotation
