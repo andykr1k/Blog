@@ -6,7 +6,7 @@ const siteMetadata = {
   snippets: 'Reuseable code snippets collected by Andrew',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://blog-andykr1k.vercel.app/blog',
+  siteUrl: 'https://blog-andykr1k.vercel.app',
   siteRepo: 'https://github.com/andykr1k/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
