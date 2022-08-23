@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/andykr1k/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/logo.png',
   email: 'akrikorian12@gmail.com',
   github: 'https://github.com/andykr1k',
   twitter: 'https://twitter.com/krik_exe',
