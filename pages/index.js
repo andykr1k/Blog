@@ -134,8 +134,8 @@ export default function Home({ posts }) {
               <div className="my-2 grid items-start gap-8">
                 <div className="group relative">
                   <div className="animate-tilt absolute -inset-0.5 rounded-lg bg-gradient-to-r  from-pink-600 to-purple-600 opacity-50 blur transition duration-1000 group-hover:opacity-100 group-hover:duration-200"></div>
-                  <a href="https://pdfhost.io/v/vhAik7Hbq_AK_Resume"
-                      alt="alt text"
+                  <a href="https://andrewkrikorianresume.tiiny.site"
+                      alt="Resume"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
