@@ -65,7 +65,7 @@ export default function AuthorLayout({ children, frontMatter }) {
               </RoughNotation>
             </p>
             <br />
-            <p className="sm:block lg:hidden">
+            <p className="sm:block xl:hidden">
               I am always looking to learn new things. I am currently working on a few projects
               related to
               <span className="font-semibold">
@@ -85,7 +85,7 @@ export default function AuthorLayout({ children, frontMatter }) {
                 Science.
               </RoughNotation>
             </p>
-            <p className="hidden lg:block">
+            <p className="hidden xl:block">
               I am always looking to learn new things. I am currently working on a few projects
               related to{' '}
               <RoughNotation
