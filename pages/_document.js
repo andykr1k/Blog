@@ -3,6 +3,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en" className="scroll-smooth">
+      
         <Head>
           <link
             rel="apple-touch-icon"
@@ -124,6 +125,7 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
+        <meta name="ahrefs-site-verification" content="b6dc3f847613883884f296617f1538083e5fd2aca0dfe78ca0e488abb55c719c"></meta>
       </Html>
     )
   }
