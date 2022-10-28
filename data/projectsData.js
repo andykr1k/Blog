@@ -35,6 +35,15 @@ const projectsData = [
     tech2: 'Tailwind',
     tech3: 'Radix UI',
   },
+  {
+    title: 'UCR Library Petition',
+    description: `Single Page Petition with Auth/DB.`,
+    href: 'https://ucrlibpetition.netlify.app',
+    github: 'https://github.com/andykr1k/UCRLibraryPetition',
+    tech1: 'React',
+    tech2: 'Firebase',
+    tech3: 'Chakra UI',
+  },
 ]
 
 export default projectsData
