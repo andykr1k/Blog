@@ -13,7 +13,7 @@ const experienceData = [
       'Created JSON wrappers for the encryption components and automated and triggered the pipelines to run at specific intervals using CronJob.',
   },
   {
-    title: 'Software Engineer',
+    title: 'Software Engineer Intern',
     company: 'ESO Fund',
     location: 'Foster City, CA',
     range: 'June 2016 - August 2017',
