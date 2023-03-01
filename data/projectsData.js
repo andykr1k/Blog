@@ -1,7 +1,16 @@
 const projectsData = [
   {
+    title: 'CourseBucket',
+    description: `UCR Public Course Repository`,
+    href: 'https://github.com/andykr1k/WebsitePortfolioGen',
+    github: 'https://github.com/andykr1k/WebsitePortfolioGen',
+    tech1: 'C++',
+    tech2: 'HTML/CSS',
+    tech3: 'GTest',
+  },
+  {
     title: 'Website Portfolio Generator',
-    description: `Generates Resume/Portfolio Website.`,
+    description: `Generates Resume/Portfolio Website`,
     href: 'https://github.com/andykr1k/WebsitePortfolioGen',
     github: 'https://github.com/andykr1k/WebsitePortfolioGen',
     tech1: 'C++',
@@ -10,7 +19,7 @@ const projectsData = [
   },
   {
     title: 'Edvisor',
-    description: `Artificial Intelligence made for students transfering to a four year college out of community college.`,
+    description: `Artificial Intelligence made for students transfering to a four year college out of community college`,
     href: 'https://edvisor.netlify.app/',
     github: 'https://github.com/andykr1k/EdvisorWeb',
     tech1: 'React',
@@ -19,7 +28,7 @@ const projectsData = [
   },
   {
     title: 'Jada Ganim',
-    description: `Personal Multi-Page Portfolio.`,
+    description: `Personal Multi-Page Portfolio`,
     href: 'https://jadaganim.com',
     github: 'https://github.com/andykr1k/Website_JadaPortfolio',
     tech1: 'React',
@@ -37,7 +46,7 @@ const projectsData = [
   },
   {
     title: 'Andrew Krikorian',
-    description: `Personal Multi-Page Portfolio and Blog.`,
+    description: `Personal Multi-Page Portfolio and Blog`,
     href: 'https://rebrand.ly/andykr1k/',
     github: 'https://github.com/andykr1k/blog',
     tech1: 'Next.js',
@@ -46,7 +55,7 @@ const projectsData = [
   },
   {
     title: 'UCR Library Petition',
-    description: `Single Page Petition with Auth/DB.`,
+    description: `Single Page Petition with Auth/DB`,
     href: 'https://ucrlibpetition.netlify.app',
     github: 'https://github.com/andykr1k/UCRLibraryPetition',
     tech1: 'React',
