@@ -15,7 +15,7 @@ const siteMetadata = {
   github: 'https://github.com/andykr1k',
   twitter: 'https://twitter.com/krik_exe',
   linkedin: 'https://www.linkedin.com/in/andrewkrikorian/',
-  website: 'https://rebrand.ly/andykr1k',
+  website: 'https://akrik.vercel.app',
   locale: 'en-US',
   analytics: {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
