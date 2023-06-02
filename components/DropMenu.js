@@ -159,7 +159,7 @@ export default function DropMenu() {
                     )}
                   >
                     <div className="flex flex-row">
-                      <ArchiveIcon className="mr-4 mt-0.5" /> Publications
+                      <FrameIcon className="mr-4 mt-0.5" /> Publications
                     </div>
                   </a>
                 </Link>
