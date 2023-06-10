@@ -19,7 +19,7 @@ const projectsData = [
   {
     title: 'SumPy',
     description: `AI PDF Chatbot`,
-    href: 'https://sumpy.streamlit.app/',
+    href: 'https://summarypy.streamlit.app/',
     github: 'https://github.com/andykr1k/sumpy',
     tech1: 'Python',
     tech2: 'Streamlit',
