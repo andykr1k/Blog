@@ -17,6 +17,15 @@ const projectsData = [
     tech3: 'GTest',
   },
   {
+    title: 'SumPy',
+    description: `AI PDF Chatbot`,
+    href: 'https://sumpy.streamlit.app/',
+    github: 'https://github.com/andykr1k/sumpy',
+    tech1: 'Python',
+    tech2: 'Streamlit',
+    tech3: 'OpenAI + LangChain',
+  },
+  {
     title: 'Website Portfolio Generator',
     description: `Generates Resume/Portfolio Website`,
     href: 'https://github.com/andykr1k/WebsitePortfolioGen',
