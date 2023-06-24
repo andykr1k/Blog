@@ -1,5 +1,13 @@
 const projectsData = [
   {
+    title: 'PictureLock',
+    description: `Social Media Platform for Movie Enthusiasts`,
+    github: 'https://github.com/andykr1k/PictureLock',
+    tech1: 'Python',
+    tech2: 'React + Tailwind',
+    tech3: 'AWS',
+  },
+  {
     title: 'QuantumDB',
     description: `Cloud Based Document Data Store`,
     github: 'https://github.com/andykr1k/CourseBucket',
