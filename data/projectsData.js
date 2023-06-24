@@ -1,7 +1,7 @@
 const projectsData = [
   {
     title: 'QuantumDB',
-    description: `Document Data Store`,
+    description: `Cloud Based Document Data Store`,
     github: 'https://github.com/andykr1k/CourseBucket',
     tech1: 'C++',
     tech2: 'React + Tailwind',
@@ -18,7 +18,7 @@ const projectsData = [
   },
   {
     title: 'SumPy',
-    description: `AI PDF Chatbot`,
+    description: `Chat with your PDF using AI`,
     href: 'https://summarypy.streamlit.app/',
     github: 'https://github.com/andykr1k/sumpy',
     tech1: 'Python',
@@ -27,7 +27,7 @@ const projectsData = [
   },
   {
     title: 'Website Portfolio Generator',
-    description: `Generates Resume/Portfolio Website`,
+    description: `Generates Portfolio Websites`,
     href: 'https://github.com/andykr1k/WebsitePortfolioGen',
     github: 'https://github.com/andykr1k/WebsitePortfolioGen',
     tech1: 'C++',
