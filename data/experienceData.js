@@ -1,5 +1,18 @@
 const experienceData = [
   {
+    title: 'Software Engineering and Machine Learning Intern',
+    company: 'Persistent Systems',
+    location: 'Santa Clara, California (Remote)',
+    range: 'June 2023 - September 2023',
+    url: 'https://www.persistent.com/',
+    text1:
+      'Worked on a contract with Wells Fargo developing a data quality validation tool.',
+    text2:
+      'Used MSSQL to store validation data and streamlit and python to visualize validation results on a responsive webpage.',
+    text3:
+      'Worked with tools like great expectations and other python data quality softwares.',
+  },
+  {
     title: 'Data Engineering Intern',
     company: 'Silicon Valley Bank',
     location: 'Palo Alto, California (Remote)',
