@@ -40,7 +40,7 @@ export default function Timeline() {
             June 2023
           </time>
           <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
-            Data Engineer @ Persistent Systems
+            Software Engineer Intern @ Persistent Systems
           </p>
         </li>
         <li className="mb-4 ml-8 rounded-md border border-gray-100 bg-white  px-4  py-4 shadow-sm shadow-gray-300 dark:border-zinc-900 dark:bg-zinc-900 dark:shadow-none">
@@ -48,7 +48,7 @@ export default function Timeline() {
             <TbDeviceDesktopAnalytics />
           </span>
           <h3 className="text-base font-semibold text-gray-900 dark:text-white">
-          Undergraduate Research Assistant
+          Undergraduate Research Assistant - Lead Programmer
           </h3>
           <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
             September 2022
@@ -65,10 +65,10 @@ export default function Timeline() {
             Summer Internship
           </h3>
           <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            June 2021
+            June 2022
           </time>
           <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
-            Data Engineer @ Silicon Valley Bank
+            Data Science Intern (AI/ML) @ Silicon Valley Bank
           </p>
         </li>
         <li className="mb-4 ml-8 rounded-md border border-gray-100 bg-white  px-4  py-4 shadow-sm shadow-gray-300 dark:border-zinc-900 dark:bg-zinc-900 dark:shadow-none">
@@ -80,7 +80,7 @@ export default function Timeline() {
             August 2019
           </time>
           <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
-            Bachelor of Science in Computer Science with Specialization in Data Science (UC Riverside)
+            Bachelor of Science in Data Science with Specialization in AI/ML (UC Riverside)
           </p>
         </li>
         <li className="mb-4 ml-8 rounded-md border border-gray-100 bg-white  px-4  py-4 shadow-sm shadow-gray-300 dark:border-zinc-900 dark:bg-zinc-900 dark:shadow-none">
@@ -91,7 +91,7 @@ export default function Timeline() {
             Returning Internship
           </h3>
           <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            June 2017
+            June 2018
           </time>
           <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
             Software Engineer Intern @ ESO Fund
@@ -105,7 +105,7 @@ export default function Timeline() {
             First Internship
           </h3>
           <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            June 2016
+            June 2017
           </time>
           <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
           Software Engineer Intern @ ESO Fund

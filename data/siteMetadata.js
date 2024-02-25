@@ -11,10 +11,10 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/logo.png',
-  email: 'akrikorian12@gmail.com',
+  email: 'akrik001@ucr.edu',
   github: 'https://github.com/andykr1k',
   twitter: 'https://twitter.com/krik_exe',
-  linkedin: 'https://www.linkedin.com/in/andrewkrikorian/',
+  linkedin: 'https://www.linkedin.com/in/andrew-krikorian/',
   website: 'https://akrik.vercel.app',
   locale: 'en-US',
   analytics: {

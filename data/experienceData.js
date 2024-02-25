@@ -13,7 +13,7 @@ const experienceData = [
       'Worked with tools like great expectations and other python data quality softwares.',
   },
   {
-    title: 'Data Engineering Intern',
+    title: 'Data Science Intern (AI/ML)',
     company: 'Silicon Valley Bank',
     location: 'Palo Alto, California (Remote)',
     range: 'January 2022 - May 2022',

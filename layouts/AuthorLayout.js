@@ -55,7 +55,7 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDelay={300}
                 animationDuration={3000}
               >
-                {text1} Currently, I am focused on building a web app named {' '}
+                {text1} Currently, I am focused on building a web app named{' '}
                 <Link
                   href={'https://www.edvisorweb.netlify.app'}
                   className="special-underline no-underline hover:text-gray-100 dark:text-gray-100 hover:dark:text-gray-100"
@@ -68,10 +68,7 @@ export default function AuthorLayout({ children, frontMatter }) {
             <p className="sm:block xl:hidden">
               I am always looking to learn new things. I am currently working on a few projects
               related to
-              <span className="font-semibold">
-                {' '}
-                Game Development and Machine Learning.{' '}
-              </span>
+              <span className="font-semibold"> Artificial Intelligence and Machine Learning. </span>
               At the same time I am{' '}
               <RoughNotation
                 type="underline"
@@ -81,8 +78,8 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDuration={3000}
                 multiline={true}
               >
-                actively on the lookout for remote internships which I can pursue in field of Computer
-                Science.
+                actively on the lookout for remote internships which I can pursue in field of
+                Computer Science.
               </RoughNotation>
             </p>
             <p className="hidden xl:block">
@@ -97,7 +94,7 @@ export default function AuthorLayout({ children, frontMatter }) {
                 show={true}
               >
                 <span className="text-black dark:text-white">
-                  Game Development and Machine Learning.{' '}
+                  Artificial Intelligence and Machine Learning.{' '}
                 </span>
               </RoughNotation>
               At the same time I am{' '}
@@ -109,8 +106,8 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDuration={3000}
                 multiline={true}
               >
-                actively on the lookout for remote internships which I can pursue in field of Software
-                Engineering
+                actively on the lookout for remote internships which I can pursue in field of Data
+                Science and Software Engineering
               </RoughNotation>
             </p>
             <br />
