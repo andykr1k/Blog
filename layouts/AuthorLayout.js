@@ -55,12 +55,12 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDelay={300}
                 animationDuration={3000}
               >
-                {text1} Currently, I am focused on building a web app named{' '}
+                {text1} Currently, I am focused on building{' '}
                 <Link
-                  href={'https://www.edvisorweb.netlify.app'}
+                  href={'https://testflight.apple.com/join/Ed1gAjRS'}
                   className="special-underline no-underline hover:text-gray-100 dark:text-gray-100 hover:dark:text-gray-100"
                 >
-                  Edvisor
+                  Picturelock
                 </Link>
               </RoughNotation>
             </p>
@@ -79,7 +79,7 @@ export default function AuthorLayout({ children, frontMatter }) {
                 multiline={true}
               >
                 actively on the lookout for remote internships which I can pursue in field of
-                Computer Science.
+                Computer Science/Data Science.
               </RoughNotation>
             </p>
             <p className="hidden xl:block">
