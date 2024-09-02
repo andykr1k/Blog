@@ -10,8 +10,7 @@ export default function GithubCard() {
   const link = 'https://github.com/andykr1k'
 
   return (
-    <div className="my-2 grid w-full grid-cols-1 gap-4 sm:grid-cols-2">
-      <MetricCard header="GitHub Stars" link={link} metric={stars} isCurrency={false} />
+    <div className="my-2">
       <MetricCard header="Github Followers" link={link} metric={followers} isCurrency={false} />
     </div>
   )
