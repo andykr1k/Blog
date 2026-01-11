@@ -103,7 +103,7 @@ class MyDocument extends Document {
           <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
           <meta
             name="description"
-            content="Welcome to my personal blog where I share my musings. I am passionate about Data Science especially in the field of Artificial Intelligence and Machine Learning."
+            content="Welcome to my personal blog where I share my musings. I am passionate about Research and Development especially in the field of Robotics, Artificial Intelligence and Machine Learning."
           />
           <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />

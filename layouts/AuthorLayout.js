@@ -55,7 +55,7 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDelay={300}
                 animationDuration={3000}
               >
-                {text1} Currently, I am focused on building{' '}
+                {text1} Currently, I am focused on researching agentic systems and building{' '}
                 <Link
                   href={'https://testflight.apple.com/join/Ed1gAjRS'}
                   className="special-underline no-underline hover:text-gray-100 dark:text-gray-100 hover:dark:text-gray-100"
@@ -78,8 +78,7 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDuration={3000}
                 multiline={true}
               >
-                actively on the lookout for remote internships which I can pursue in field of
-                Computer Science/Data Science.
+                actively on the lookout for fundemental research findings in the field of Robotics, Artificial Intelligence and Machine Learning.
               </RoughNotation>
             </p>
             <p className="hidden xl:block">
@@ -106,8 +105,7 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDuration={3000}
                 multiline={true}
               >
-                actively on the lookout for remote internships which I can pursue in field of Data
-                Science and Software Engineering
+                actively on the lookout for fundemental research findings in the field of Robotics, Artificial Intelligence and Machine Learning.
               </RoughNotation>
             </p>
             <br />
